@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Costa 
 
-<!--
-**gabriel-costabyte/gabriel-costabyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Interessado em desenvolvimento de software, programação e tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Usuário Linux
+
+📍 Rio de Janeiro, RJ - Brasil
+
+---
+
+## Sobre mim
+
+Sou estudante de Engenharia de Software em busca de desenvolver minhas habilidades em programação e construção de projetos práticos.
+
+Atualmente estudo desenvolvimento de software, algoritmos, estruturas de dados e versionamento com Git e GitHub.
+
+Tenho experiência em projetos desenvolvidos utilizando linguagem C.
+
+---
+
+## Tecnologias e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+---
+
+## Projetos em Destaque
+
+### ♟️ Simulador de Movimentos de Peças de Xadrez
+Projeto desenvolvido em C para simular os movimentos das principais peças de xadrez em um tabuleiro.
+
+### ⚓ Batalha Naval
+Implementação de um tabuleiro de batalha naval com posicionamento e representação dos elementos do jogo.
+
+### 🃏 Sistema de Cadastro de Cartas Super Trunfo
+Sistema para cadastro e gerenciamento de cartas do jogo Super Trunfo utilizando estruturas de dados e conceitos de programação.
